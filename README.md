@@ -1,2 +1,2 @@
 # Embbeding_XL
-My personal embeddingXL use BTW
+เอาไว้อัพลงไวๆไม่ต้องทำด้องทำเอง
